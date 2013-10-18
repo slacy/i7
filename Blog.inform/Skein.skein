@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x1d33190" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0xf581d0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0x7fe1b0163060"/>
-  <item nodeId="node-0x1d33190">
+  <activeNode nodeId="node-0xf581d0"/>
+  <item nodeId="node-0xf581d0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -32,16 +32,16 @@ You can also see a blank note here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d332f0"/>
-      <child nodeId="node-0x23c4cd0"/>
-      <child nodeId="node-0x23ec070"/>
-      <child nodeId="node-0x23ec330"/>
-      <child nodeId="node-0x23ec8b0"/>
-      <child nodeId="node-0x23eccd0"/>
-      <child nodeId="node-0x7fe1b0103030"/>
+      <child nodeId="node-0xf58330"/>
+      <child nodeId="node-0x1601cb0"/>
+      <child nodeId="node-0x1629050"/>
+      <child nodeId="node-0x1629310"/>
+      <child nodeId="node-0x1629e10"/>
+      <child nodeId="node-0x164f090"/>
+      <child nodeId="node-0x164f610"/>
     </children>
   </item>
-  <item nodeId="node-0x1d332f0">
+  <item nodeId="node-0xf58330">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 This is my first post.
@@ -59,14 +59,14 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33450"/>
-      <child nodeId="node-0x1d335b0"/>
-      <child nodeId="node-0x23c41d0"/>
-      <child nodeId="node-0x23c4330"/>
-      <child nodeId="node-0x23c45f0"/>
+      <child nodeId="node-0xf58490"/>
+      <child nodeId="node-0xf585f0"/>
+      <child nodeId="node-0x16011b0"/>
+      <child nodeId="node-0x1601310"/>
+      <child nodeId="node-0x16015d0"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33450">
+  <item nodeId="node-0xf58490">
     <command xml:space="preserve">?</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -77,7 +77,7 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1d335b0">
+  <item nodeId="node-0xf585f0">
     <command xml:space="preserve">take execution </command>
     <result xml:space="preserve">Taken.
 
@@ -88,10 +88,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33710"/>
+      <child nodeId="node-0xf58750"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33710">
+  <item nodeId="node-0xf58750">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -105,10 +105,10 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33870"/>
+      <child nodeId="node-0xf588b0"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33870">
+  <item nodeId="node-0xf588b0">
     <command xml:space="preserve">take interactive</command>
     <result xml:space="preserve">Taken.
 
@@ -119,10 +119,10 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d339d0"/>
+      <child nodeId="node-0xf58a10"/>
     </children>
   </item>
-  <item nodeId="node-0x1d339d0">
+  <item nodeId="node-0xf58a10">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -134,10 +134,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33b30"/>
+      <child nodeId="node-0xf58b70"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33b30">
+  <item nodeId="node-0xf58b70">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   interactive blog
@@ -150,10 +150,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33c90"/>
+      <child nodeId="node-0xf58cd0"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33c90">
+  <item nodeId="node-0xf58cd0">
     <command xml:space="preserve">drop execution </command>
     <result xml:space="preserve">Dropped.
 
@@ -164,10 +164,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1d33df0"/>
+      <child nodeId="node-0xf58e30"/>
     </children>
   </item>
-  <item nodeId="node-0x1d33df0">
+  <item nodeId="node-0xf58e30">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -181,10 +181,10 @@ You can see execution here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4070"/>
+      <child nodeId="node-0x1601050"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4070">
+  <item nodeId="node-0x1601050">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -198,7 +198,7 @@ You can see execution here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23c41d0">
+  <item nodeId="node-0x16011b0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -214,7 +214,7 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23c4330">
+  <item nodeId="node-0x1601310">
     <command xml:space="preserve">look interactive</command>
     <result xml:space="preserve">You see nothing special about interactive.
 
@@ -225,10 +225,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4490"/>
+      <child nodeId="node-0x1601470"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4490">
+  <item nodeId="node-0x1601470">
     <command xml:space="preserve">look execution </command>
     <result xml:space="preserve">You see nothing special about execution.
 
@@ -239,7 +239,7 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23c45f0">
+  <item nodeId="node-0x16015d0">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">
 Second
@@ -252,10 +252,10 @@ This is just the next post, I haven&apos;t actually written it yet.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4750"/>
+      <child nodeId="node-0x1601730"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4750">
+  <item nodeId="node-0x1601730">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Second
 This is just the next post, I haven&apos;t actually written it yet.
@@ -267,10 +267,10 @@ This is just the next post, I haven&apos;t actually written it yet.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c48b0"/>
+      <child nodeId="node-0x1601890"/>
     </children>
   </item>
-  <item nodeId="node-0x23c48b0">
+  <item nodeId="node-0x1601890">
     <command xml:space="preserve">south</command>
     <result xml:space="preserve">
 Welcome
@@ -289,10 +289,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4a10"/>
+      <child nodeId="node-0x16019f0"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4a10">
+  <item nodeId="node-0x16019f0">
     <command xml:space="preserve">clear</command>
     <result xml:space="preserve">What do you want to clear?
 
@@ -303,10 +303,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4b70"/>
+      <child nodeId="node-0x1601b50"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4b70">
+  <item nodeId="node-0x1601b50">
     <command xml:space="preserve">next</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -317,7 +317,7 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23c4cd0">
+  <item nodeId="node-0x1601cb0">
     <command xml:space="preserve">leek</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -328,10 +328,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23c4e30"/>
+      <child nodeId="node-0x1601e10"/>
     </children>
   </item>
-  <item nodeId="node-0x23c4e30">
+  <item nodeId="node-0x1601e10">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -345,7 +345,7 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23ec070">
+  <item nodeId="node-0x1629050">
     <command xml:space="preserve">take execution</command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -356,10 +356,10 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23ec1d0"/>
+      <child nodeId="node-0x16291b0"/>
     </children>
   </item>
-  <item nodeId="node-0x23ec1d0">
+  <item nodeId="node-0x16291b0">
     <command xml:space="preserve">take interactive</command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -370,7 +370,7 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23ec330">
+  <item nodeId="node-0x1629310">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Second
@@ -380,16 +380,16 @@ You can see a good idea here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23ec490"/>
-      <child nodeId="node-0x7fe1b01039d0"/>
+      <child nodeId="node-0x1629470"/>
+      <child nodeId="node-0x16295d0"/>
     </children>
   </item>
-  <item nodeId="node-0x23ec490">
+  <item nodeId="node-0x1629470">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Welcome
@@ -410,50 +410,50 @@ Use the verbs up/down to navigate between posts.  The newest post is always at t
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7fe1b01039d0">
+  <item nodeId="node-0x16295d0">
     <command xml:space="preserve">look at good idea</command>
     <result xml:space="preserve">You see nothing special about the good idea.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103870"/>
+      <child nodeId="node-0x1629730"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103870">
+  <item nodeId="node-0x1629730">
     <command xml:space="preserve">take good idea</command>
     <result xml:space="preserve">Taken.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103b30"/>
+      <child nodeId="node-0x1629890"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103b30">
+  <item nodeId="node-0x1629890">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Second
 This is just the next post, I haven&apos;t actually written it yet.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103c90"/>
+      <child nodeId="node-0x16299f0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103c90">
+  <item nodeId="node-0x16299f0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Welcome
@@ -471,29 +471,29 @@ You can also see a blank note here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103df0"/>
+      <child nodeId="node-0x1629b50"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103df0">
+  <item nodeId="node-0x1629b50">
     <command xml:space="preserve">drop good idea</command>
     <result xml:space="preserve">Dropped.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0163060"/>
+      <child nodeId="node-0x1629cb0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0163060">
+  <item nodeId="node-0x1629cb0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hi, Steve here.
@@ -510,12 +510,12 @@ You can also see a good idea and a blank note here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23ec8b0">
+  <item nodeId="node-0x1629e10">
     <command xml:space="preserve">look notext</command>
     <result xml:space="preserve">You see nothing special about notext.
 
@@ -526,7 +526,7 @@ You can also see a good idea and a blank note here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x23eccd0">
+  <item nodeId="node-0x164f090">
     <command xml:space="preserve">take navigation </command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -537,10 +537,10 @@ You can also see a good idea and a blank note here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23ecb70"/>
+      <child nodeId="node-0x164f1f0"/>
     </children>
   </item>
-  <item nodeId="node-0x23ecb70">
+  <item nodeId="node-0x164f1f0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hi, Steve here.
@@ -562,10 +562,10 @@ You can also see notext here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23eca10"/>
+      <child nodeId="node-0x164f350"/>
     </children>
   </item>
-  <item nodeId="node-0x23eca10">
+  <item nodeId="node-0x164f350">
     <command xml:space="preserve">take interactive</command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -576,10 +576,10 @@ You can also see notext here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x23ece30"/>
+      <child nodeId="node-0x164f4b0"/>
     </children>
   </item>
-  <item nodeId="node-0x23ece30">
+  <item nodeId="node-0x164f4b0">
     <command xml:space="preserve">look notext </command>
     <result xml:space="preserve">You see nothing special about notext.
 
@@ -590,7 +590,7 @@ You can also see notext here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7fe1b0103030">
+  <item nodeId="node-0x164f610">
     <command xml:space="preserve">look at note </command>
     <result xml:space="preserve">You see nothing special about the blank note.
 
@@ -601,10 +601,10 @@ You can also see notext here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103190"/>
+      <child nodeId="node-0x164f770"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103190">
+  <item nodeId="node-0x164f770">
     <command xml:space="preserve">look at blank </command>
     <result xml:space="preserve">You see nothing special about the blank note.
 
@@ -615,10 +615,10 @@ You can also see notext here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b01032f0"/>
+      <child nodeId="node-0x164f8d0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b01032f0">
+  <item nodeId="node-0x164f8d0">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Second
@@ -631,10 +631,10 @@ This is just the next post, I haven&apos;t actually written it yet.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103450"/>
+      <child nodeId="node-0x164fa30"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103450">
+  <item nodeId="node-0x164fa30">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -645,10 +645,10 @@ This is just the next post, I haven&apos;t actually written it yet.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b01035b0"/>
+      <child nodeId="node-0x164fb90"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b01035b0">
+  <item nodeId="node-0x164fb90">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Welcome
@@ -671,10 +671,10 @@ You can also see a blank note here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fe1b0103710"/>
+      <child nodeId="node-0x164fcf0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fe1b0103710">
+  <item nodeId="node-0x164fcf0">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Second

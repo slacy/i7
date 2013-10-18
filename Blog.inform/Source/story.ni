@@ -1,5 +1,7 @@
 "Steve's Blog" by "Steve Lacy"
 
+Release along with an interpreter. 
+
 A blog post is a kind of room. 
 An idea is a kind of thing that is fixed in place. 
 
