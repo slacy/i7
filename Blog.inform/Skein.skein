@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x1c37090" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1d33190" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0x1c37090"/>
-  <item nodeId="node-0x1c37090">
+  <activeNode nodeId="node-0x7fe1b0163060"/>
+  <item nodeId="node-0x1d33190">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
 
-Blog
+Steve&apos;s Blog
 An Interactive Fiction by Steve Lacy
 Release 1 / Serial number 131017 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
 Welcome
-Hello world
+Hi, Steve here.
 
-The question is: Can I write a blog in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+I&apos;ve been recentely fascinated by the idea(s) of Interactive Fiction, and am embarking on learning how to write for IF systems, specifically Inform7.  To that end, I&apos;ve decided to document the process as a blog.  An Interactive blog, and this is my first post.
 
-So, I&apos;ve decided that in addition to needing how to write Interactive Fiction (IF) using Inform7, I also should document that process, so I&apos;ve decided to document the process using Inform7 itself, and in the form of a blog-like &quot;story&quot; as it were.
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process.
+
+The question is: Can a blog be written in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+You can also see a blank note here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -26,14 +32,21 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1c37610"/>
-      <child nodeId="node-0x1c37a30"/>
+      <child nodeId="node-0x1d332f0"/>
+      <child nodeId="node-0x23c4cd0"/>
+      <child nodeId="node-0x23ec070"/>
+      <child nodeId="node-0x23ec330"/>
+      <child nodeId="node-0x23ec8b0"/>
+      <child nodeId="node-0x23eccd0"/>
+      <child nodeId="node-0x7fe1b0103030"/>
     </children>
   </item>
-  <item nodeId="node-0x1c37610">
+  <item nodeId="node-0x1d332f0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
-Hello world
+This is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process. 
 
 The question is: Can I write a blog in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
 
@@ -46,12 +59,14 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1c37770"/>
-      <child nodeId="node-0x1c37cf0"/>
-      <child nodeId="node-0x7f763812f760"/>
+      <child nodeId="node-0x1d33450"/>
+      <child nodeId="node-0x1d335b0"/>
+      <child nodeId="node-0x23c41d0"/>
+      <child nodeId="node-0x23c4330"/>
+      <child nodeId="node-0x23c45f0"/>
     </children>
   </item>
-  <item nodeId="node-0x1c37770">
+  <item nodeId="node-0x1d33450">
     <command xml:space="preserve">?</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -62,7 +77,7 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1c37cf0">
+  <item nodeId="node-0x1d335b0">
     <command xml:space="preserve">take execution </command>
     <result xml:space="preserve">Taken.
 
@@ -73,10 +88,10 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1c37b90"/>
+      <child nodeId="node-0x1d33710"/>
     </children>
   </item>
-  <item nodeId="node-0x1c37b90">
+  <item nodeId="node-0x1d33710">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -90,10 +105,10 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1c37e50"/>
+      <child nodeId="node-0x1d33870"/>
     </children>
   </item>
-  <item nodeId="node-0x1c37e50">
+  <item nodeId="node-0x1d33870">
     <command xml:space="preserve">take interactive</command>
     <result xml:space="preserve">Taken.
 
@@ -104,10 +119,10 @@ The question is: Can I write a blog in the form of interactive fiction?  What wo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7f763812f080"/>
+      <child nodeId="node-0x1d339d0"/>
     </children>
   </item>
-  <item nodeId="node-0x7f763812f080">
+  <item nodeId="node-0x1d339d0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -119,10 +134,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7f763812f1e0"/>
+      <child nodeId="node-0x1d33b30"/>
     </children>
   </item>
-  <item nodeId="node-0x7f763812f1e0">
+  <item nodeId="node-0x1d33b30">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   interactive blog
@@ -135,10 +150,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7f763812f340"/>
+      <child nodeId="node-0x1d33c90"/>
     </children>
   </item>
-  <item nodeId="node-0x7f763812f340">
+  <item nodeId="node-0x1d33c90">
     <command xml:space="preserve">drop execution </command>
     <result xml:space="preserve">Dropped.
 
@@ -149,10 +164,10 @@ Hello world
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7f763812f4a0"/>
+      <child nodeId="node-0x1d33df0"/>
     </children>
   </item>
-  <item nodeId="node-0x7f763812f4a0">
+  <item nodeId="node-0x1d33df0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -166,10 +181,10 @@ You can see execution here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7f763812f600"/>
+      <child nodeId="node-0x23c4070"/>
     </children>
   </item>
-  <item nodeId="node-0x7f763812f600">
+  <item nodeId="node-0x23c4070">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -183,7 +198,7 @@ You can see execution here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7f763812f760">
+  <item nodeId="node-0x23c41d0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
@@ -199,7 +214,110 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1c37a30">
+  <item nodeId="node-0x23c4330">
+    <command xml:space="preserve">look interactive</command>
+    <result xml:space="preserve">You see nothing special about interactive.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23c4490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23c4490">
+    <command xml:space="preserve">look execution </command>
+    <result xml:space="preserve">You see nothing special about execution.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23c45f0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Second
+This is just the next post, I haven&apos;t actually written it yet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23c4750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23c4750">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Second
+This is just the next post, I haven&apos;t actually written it yet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23c48b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23c48b0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Welcome
+This is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process. 
+
+The question is: Can I write a blog in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+So, I&apos;ve decided that in addition to needing how to write Interactive Fiction (IF) using Inform7, I also should document that process, so I&apos;ve decided to document the process using Inform7 itself, and in the form of a blog-like &quot;story&quot; as it were.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23c4a10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23c4a10">
+    <command xml:space="preserve">clear</command>
+    <result xml:space="preserve">What do you want to clear?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23c4b70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23c4b70">
+    <command xml:space="preserve">next</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23c4cd0">
     <command xml:space="preserve">leek</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -210,15 +328,357 @@ So, I&apos;ve decided that in addition to needing how to write Interactive Ficti
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1c378d0"/>
+      <child nodeId="node-0x23c4e30"/>
     </children>
   </item>
-  <item nodeId="node-0x1c378d0">
+  <item nodeId="node-0x23c4e30">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Welcome
 Hello world
 
 The question is: Can I write a blog in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work? 
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23ec070">
+    <command xml:space="preserve">take execution</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23ec1d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23ec1d0">
+    <command xml:space="preserve">take interactive</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23ec330">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Second
+This is just the next post, I haven&apos;t actually written it yet.
+
+You can see a good idea here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23ec490"/>
+      <child nodeId="node-0x7fe1b01039d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23ec490">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Welcome
+This is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process. 
+
+The question is: Can I write a blog in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+So, I&apos;ve decided that in addition to needing how to write Interactive Fiction (IF) using Inform7, I also should document that process, so I&apos;ve decided to document the process using Inform7 itself, and in the form of a blog-like &quot;story&quot; as it were.
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fe1b01039d0">
+    <command xml:space="preserve">look at good idea</command>
+    <result xml:space="preserve">You see nothing special about the good idea.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103870"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103870">
+    <command xml:space="preserve">take good idea</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103b30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103b30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Second
+This is just the next post, I haven&apos;t actually written it yet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103c90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103c90">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Welcome
+Hi, Steve here.
+
+I&apos;ve been recentely fascinated by the idea(s) of Interactive Fiction, and am embarking on learning how to write for IF systems, specifically Inform7.  To that end, I&apos;ve decided to document the process as a blog.  An Interactive blog, and this is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process.
+
+The question is: Can a blog be written in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+You can also see a blank note here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103df0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103df0">
+    <command xml:space="preserve">drop good idea</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0163060"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0163060">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Welcome
+Hi, Steve here.
+
+I&apos;ve been recentely fascinated by the idea(s) of Interactive Fiction, and am embarking on learning how to write for IF systems, specifically Inform7.  To that end, I&apos;ve decided to document the process as a blog.  An Interactive blog, and this is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process.
+
+The question is: Can a blog be written in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+You can also see a good idea and a blank note here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23ec8b0">
+    <command xml:space="preserve">look notext</command>
+    <result xml:space="preserve">You see nothing special about notext.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x23eccd0">
+    <command xml:space="preserve">take navigation </command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23ecb70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23ecb70">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Welcome
+Hi, Steve here.
+
+I&apos;ve been recentely fascinated by the idea(s) of Interactive Fiction, and am embarking on learning how to write for IF systems, specifically Inform7.  To that end, I&apos;ve decided to document the process as a blog.  An Interactive blog, and this is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process.
+
+The question is: Can a blog be written in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+You can also see notext here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23eca10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23eca10">
+    <command xml:space="preserve">take interactive</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x23ece30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x23ece30">
+    <command xml:space="preserve">look notext </command>
+    <result xml:space="preserve">You see nothing special about notext.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fe1b0103030">
+    <command xml:space="preserve">look at note </command>
+    <result xml:space="preserve">You see nothing special about the blank note.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103190">
+    <command xml:space="preserve">look at blank </command>
+    <result xml:space="preserve">You see nothing special about the blank note.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b01032f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b01032f0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Second
+This is just the next post, I haven&apos;t actually written it yet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103450">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b01035b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b01035b0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Welcome
+Hi, Steve here.
+
+I&apos;ve been recentely fascinated by the idea(s) of Interactive Fiction, and am embarking on learning how to write for IF systems, specifically Inform7.  To that end, I&apos;ve decided to document the process as a blog.  An Interactive blog, and this is my first post.
+
+Interactive Fiction? A Blog?  Can these things be combined?  I&apos;m not sure, so here I am documenting the process.
+
+The question is: Can a blog be written in the form of interactive fiction?  What would it look like?  Would anyone read it?  How does navigation work?
+
+Use the verbs up/down to navigate between posts.  The newest post is always at the top, so use &quot;down&quot; to go to previous posts.
+
+You can also see a blank note here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fe1b0103710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fe1b0103710">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Second
+This is just the next post, I haven&apos;t actually written it yet.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
