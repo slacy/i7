@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x2bea000" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>GNOME Inform 7</generator>
+  <activeNode nodeId="node-0x7ff7582e7a00"/>
+  <item nodeId="node-0x2bea000">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+MemoryTest
+An Interactive Fiction by Steve Lacy
+Release 1 / Serial number 131018 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Your room
+You awake slowly, and as you come to consciousness, you&apos;re reminded again of how frail you&apos;ve become.
+
+There&apos;s a comfortable looking chair beside the bed.
+
+You can also see your bed and a nightstand (on which is a picture) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2bea580"/>
+      <child nodeId="node-0x2bea9a0"/>
+      <child nodeId="node-0x2beac60"/>
+      <child nodeId="node-0x2beadc0"/>
+      <child nodeId="node-0x7ff738371090"/>
+      <child nodeId="node-0x7ff738371b90"/>
+      <child nodeId="node-0x7ff7387ad0a0"/>
+      <child nodeId="node-0x7ff7387ad4c0"/>
+      <child nodeId="node-0x7ff7387ad8e0"/>
+      <child nodeId="node-0x7ff75819e180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2bea580">
+    <command xml:space="preserve">look </command>
+    <result xml:space="preserve">Your room
+You can see a picture here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2bea6e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2bea6e0">
+    <command xml:space="preserve">look at picture</command>
+    <result xml:space="preserve">You see nothing special about the picture.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x2bea9a0">
+    <command xml:space="preserve">look at bed</command>
+    <result xml:space="preserve">You see nothing special about your bed.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2bea840"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2bea840">
+    <command xml:space="preserve">look at nightstand </command>
+    <result xml:space="preserve">On the nightstand is a picture.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2beab00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2beab00">
+    <command xml:space="preserve">look at picture </command>
+    <result xml:space="preserve">You see nothing special about the picture.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x2beac60">
+    <command xml:space="preserve">look at picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7383714b0"/>
+      <child nodeId="node-0x7ff7383718d0"/>
+      <child nodeId="node-0x7ff738371e50"/>
+      <child nodeId="node-0x7ff7582e7060"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7383714b0">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7383718d0">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a picture
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff738371e50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your room
+You awake slowly, and as you come to consciousness, you&apos;re reminded again of how frail you&apos;ve become.
+
+You can see your bed, a nightstand (on which is a wedding picture (in which is a memory getting married)) and a chair here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7582e7060">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now. getting married
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x2beadc0">
+    <command xml:space="preserve">look picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff738371a30"/>
+      <child nodeId="node-0x7ff75819eb20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff738371a30">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  getting married
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff738371610"/>
+      <child nodeId="node-0x7ff7387ad620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff738371610">
+    <command xml:space="preserve">look getting married </command>
+    <result xml:space="preserve">You see nothing special about getting married.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ad620">
+    <command xml:space="preserve">memories</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff75819eb20">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e9c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e9c0">
+    <command xml:space="preserve">thoughts</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819ec80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819ec80">
+    <command xml:space="preserve">think</command>
+    <result xml:space="preserve">What a good idea.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819ede0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819ede0">
+    <command xml:space="preserve">think about </command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff738371090">
+    <command xml:space="preserve">take your firstborn son </command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7383711f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7383711f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your room
+You awake slowly, and as you come to consciousness, you&apos;re reminded again of how frail you&apos;ve become.
+
+You can see your bed, a nightstand (on which is a picture) and a chair here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff738371350"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff738371350">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your room
+You awake slowly, and as you come to consciousness, you&apos;re reminded again of how frail you&apos;ve become.
+
+You can see your bed, a nightstand (on which is a picture) and a chair here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff738371b90">
+    <command xml:space="preserve">look at wedding picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two people kissing on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff738371770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff738371770">
+    <command xml:space="preserve">remember </command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff738371cf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff738371cf0">
+    <command xml:space="preserve">remember </command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ad0a0">
+    <command xml:space="preserve">look nightstand </command>
+    <result xml:space="preserve">You see nothing special about the nightstand.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ad4c0">
+    <command xml:space="preserve">look at nightstand</command>
+    <result xml:space="preserve">On the nightstand is a picture.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7387ad360"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7387ad360">
+    <command xml:space="preserve">look at picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two people kissing on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ad8e0">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+ nothing
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7387ad780"/>
+      <child nodeId="node-0x7ff7387ada40"/>
+      <child nodeId="node-0x7ff7387ade60"/>
+      <child nodeId="node-0x7ff7582e7480"/>
+      <child nodeId="node-0x7ff7582e75e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7387ad780">
+    <command xml:space="preserve">remembering</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7387ad200"/>
+      <child nodeId="node-0x7ff7387adba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7387ad200">
+    <command xml:space="preserve">remember getting married </command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387adba0">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7387add00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7387add00">
+    <command xml:space="preserve">remember getting married </command>
+    <result xml:space="preserve">I only understood you as far as wanting to remember.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e020"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e020">
+    <command xml:space="preserve">remember your wife</command>
+    <result xml:space="preserve">I only understood you as far as wanting to remember.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ada40">
+    <command xml:space="preserve">remember the chair</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7387ade60">
+    <command xml:space="preserve">remember the picture</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7582e7480">
+    <command xml:space="preserve">look at picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7582e7320"/>
+      <child nodeId="node-0x7ff7582e78a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7582e7320">
+    <command xml:space="preserve">remember </command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+ getting married
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7582e78a0">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+ getting married
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7582e7a00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7582e7a00">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff7582e75e0">
+    <command xml:space="preserve">look at the picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7582e71c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7582e71c0">
+    <command xml:space="preserve">remember</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+ getting married
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff7582e7740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff7582e7740">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7ff75819e180">
+    <command xml:space="preserve">think about </command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e2e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e2e0">
+    <command xml:space="preserve">remember </command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e440">
+    <command xml:space="preserve">think</command>
+    <result xml:space="preserve">What a good idea.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e5a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e5a0">
+    <command xml:space="preserve">think about</command>
+    <result xml:space="preserve">Yes, it&apos;s all clear now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e700">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7ff75819e860"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7ff75819e860">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
