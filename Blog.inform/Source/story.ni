@@ -1,9 +1,11 @@
 "Steve's Blog" by "Steve Lacy"
-
+Use no scoring. 
 Release along with an interpreter. 
 
 A blog post is a kind of room. 
 An idea is a kind of thing that is fixed in place. 
+
+Section 1 -- "In the beginning...." 
 
 Welcome is a blog post.  "Hi, Steve here.   
 
