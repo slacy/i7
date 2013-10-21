@@ -4,9 +4,9 @@ Use American dialect, serial comma, no scoring.
 
 Part 1 - Adjustments to the world model
 
-Chapter 2 - New kinds <	
+Chapter 2 - New kinds
 
-Section 1 - The Memory type 
+Section 1 - The Memory type
 
 A memory is a kind of thing. A memory is usually undescribed. 
 A memory is usually fixed in place. 
@@ -25,7 +25,7 @@ Your son is a weak memory.
 getting married is a weak memory. 
 The birth of your first child is a weak memory. 
 
-Part 2 - The World 
+Part 2 - The World
 
 Your bedroom is a room. "You awake slowly, and as you come to consciousness, you feel as though you've awaken in a strange and new place, but it seems somewhat familiar.".
 The printed name of your bedroom is "A small, starkly furnished room.".
