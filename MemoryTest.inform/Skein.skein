@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Skein rootNode="node-0x25891f0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0x7fba383511b0"/>
+  <activeNode nodeId="node-0x7fba383519f0"/>
   <item nodeId="node-0x25891f0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
@@ -17,7 +17,7 @@ You awake slowly, and as you come to consciousness, you feel as though you&apos;
 
 There&apos;s a comfortable looking chair beside your bed.
 
-You can also see your bed and a nightstand here.
+You can also see your bed and a nightstand (on which is a picture) here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -46,6 +46,9 @@ You can also see your bed and a nightstand here.
       <child nodeId="node-0x7fba58347b10"/>
       <child nodeId="node-0x51cc600"/>
       <child nodeId="node-0x7fba382fa050"/>
+      <child nodeId="node-0x7fba38351310"/>
+      <child nodeId="node-0x7fbab437b070"/>
+      <child nodeId="node-0x7fbab437b490"/>
     </children>
   </item>
   <item nodeId="node-0x2589350">
@@ -1603,7 +1606,7 @@ Ah, now I remember!
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -1617,7 +1620,7 @@ Ah, now I remember!
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -1631,7 +1634,7 @@ Ah, now I remember!
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -1645,7 +1648,7 @@ Ah, now I remember!
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -2031,6 +2034,260 @@ Ah, now I remember!
   <item nodeId="node-0x7fba382facb0">
     <command xml:space="preserve">forget myself </command>
     <result xml:space="preserve">You can&apos;t forget something you don&apos;t know.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fba38351310">
+    <command xml:space="preserve">ponder the picture</command>
+    <result xml:space="preserve">You ponder how the picture reminds you of Getting married...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba38351730"/>
+      <child nodeId="node-0x7fba38351890"/>
+      <child nodeId="node-0x7fba38351b50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba38351730">
+    <command xml:space="preserve">ponder the chair</command>
+    <result xml:space="preserve">You ponder how the chair reminds you of 
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+
+[** Programming error: object#50 (object number 50)  has no property p57_evoking to read **]
+nothing...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fba38351890">
+    <command xml:space="preserve">ponder getting married </command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba38351470"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba38351470">
+    <command xml:space="preserve">look at the picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba383515d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba383515d0">
+    <command xml:space="preserve">ponder the picture </command>
+    <result xml:space="preserve">You ponder how the picture reminds you of Getting married...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba383519f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba383519f0">
+    <command xml:space="preserve">ponder getting married </command>
+    <result xml:space="preserve">Pondering Getting married...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fba38351b50">
+    <command xml:space="preserve">look at the picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba38351cb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba38351cb0">
+    <command xml:space="preserve">ponder the chair</command>
+    <result xml:space="preserve">You ponder how the chair reminds you of 
+*** Run-time problem P5: Tried to access an inappropriate relation for the chair, violating &apos;Evoking relates various memories to various things&apos;.
+
+nothing...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fba38351e10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fba38351e10">
+    <command xml:space="preserve">ponder the bed</command>
+    <result xml:space="preserve">You ponder how your bed reminds you of 
+*** Run-time problem P5: Tried to access an inappropriate relation for your bed, violating &apos;Evoking relates various memories to various things&apos;.
+
+nothing...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fbab437b070">
+    <command xml:space="preserve">ponder the bed</command>
+    <result xml:space="preserve">You ponder how your bed reminds you of 
+*** Run-time problem P5: Tried to access an inappropriate relation for your bed, violating &apos;Evoking relates various memories to various things&apos;.
+
+nothing...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fbab437b490">
+    <command xml:space="preserve">ponder the chair</command>
+    <result xml:space="preserve">Pondering the chair...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fbab437b5f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fbab437b5f0">
+    <command xml:space="preserve">ponder the picture</command>
+    <result xml:space="preserve">You ponder how the picture reminds you of Getting married...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fbab437b1d0"/>
+      <child nodeId="node-0x7fbab437b8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fbab437b1d0">
+    <command xml:space="preserve">look at the picture</command>
+    <result xml:space="preserve">It&apos;s a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.
+
+Ah, now I remember!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fbab437b330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fbab437b330">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fbab437b750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fbab437b750">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">That was a rhetorical question.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7fbab437b8b0">
+    <command xml:space="preserve">exit</command>
+    <result xml:space="preserve">But you aren&apos;t in anything at the moment.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fbab437ba10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fbab437ba10">
+    <command xml:space="preserve">save</command>
+    <result xml:space="preserve">Save failed.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>

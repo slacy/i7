@@ -35,13 +35,19 @@ Rule for strengthening a memory (called the memory):
 	now the memory is part of the player; 
 	now the memory is strong;
 
+Pondering is an action applying to one thing. 
+Understand "ponder [something]" as pondering. 
+Carry out pondering something (called the noun): 
+	if the noun evokes a thing, say "You ponder how [the noun] reminds you of [the list of memories which are evoked by the noun]..."; otherwise say "Pondering [the noun]...".
+	
 Section 2 - Evocation / Reminding
 
-Reminds relates memories to things. 
-The verb to evoke (it evokes, they evoke, it evoked) implies the reminds relation. 
+Evoking relates various things to various memories. 
+The verb to evoke (it evokes, they evoke, it evoked, it is evoked, it is evoking) implies the evoking relation. 
 
 After examining an object that evokes something (called the memory) :
-	Carry out the strengthening activity with the memory. 
+	Carry out the strengthening activity with the memory.
+	
 	
 Chapter 2 - Memories used in the game
 
@@ -55,10 +61,13 @@ Your bedroom is a room. "You awake slowly, and as you come to consciousness, you
 The printed name of your bedroom is "A small, starkly furnished room.".
 
 Your bed is an object in your bedroom, fixed in place. 
+
 The nightstand is an object in your bedroom, fixed in place. 
+
 A picture is an object on the nightstand.
 The picture evokes getting married.
-A chair is an object in your bedroom, fixed in place.  "There's a comfortable looking chair beside your bed.". 
+
+A chair is an object in your bedroom, fixed in place.  "There's a comfortable looking chair beside your bed.".  
 
 The description of the picture is "[if getting married is not part of the player]It's a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.[otherwise]A picture of your marriage on the beach.[end if]".
 
