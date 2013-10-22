@@ -35,28 +35,31 @@ Rule for strengthening a memory (called the memory):
 	now the memory is part of the player; 
 	now the memory is strong;
 
-Section 2 - Linkages 
+Section 2 - Evocation 
+
+Reminds relates memories to things. 
+The verb to evoke (it evokes, they evoke, it evoked) implies the reminds relation. 
 
 Part 2 - Memories used in the game
 
 Your son is a weak memory.  
-getting married is a weak memory. 
+Getting married is a weak memory. 
 The birth of your first child is a weak memory. 
 
 Part 2 - The World
 
 Your bedroom is a room. "You awake slowly, and as you come to consciousness, you feel as though you've awaken in a strange and different place, but it seems somewhat familiar.".
 The printed name of your bedroom is "A small, starkly furnished room.".
-unknown knowledge is a room. 
 
-your bed is an object in your bedroom, fixed in place. 
-a nightstand is an object in your bedroom, fixed in place. 
-a picture is an object on a nightstand.
-a chair is an object in your bedroom, fixed in place.  "There's a comfortable looking chair beside your bed.". 
+Your bed is an object in your bedroom, fixed in place. 
+A nightstand is an object in your bedroom, fixed in place. 
+A picture is an object on a nightstand.
+A picture evokes getting married.
+A chair is an object in your bedroom, fixed in place.  "There's a comfortable looking chair beside your bed.". 
 
-the description of the picture is "[if getting married is not part of the player]It's a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.[otherwise]A picture of your marriage on the beach.[end if]". getting married is part of the picture. 
+The description of the picture is "[if getting married is not part of the player]It's a beautiful picture of two young people on the beach.  The woman is wearing a long, flowing white gown, and holding a small bouquet.  The man is wearing a tuxedo.  They appear to be kissing.[otherwise]A picture of your marriage on the beach.[end if]". getting married is part of the picture. 
 
-after examining the picture: 
-	carry out the strengthening activity with getting married. 
+After examining an object that evokes something (called the memory) :
+	Carry out the strengthening activity with the memory. 
 
 Part 3 - The Plot  
